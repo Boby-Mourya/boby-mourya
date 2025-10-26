@@ -9,7 +9,6 @@ public class OddSeriesConditional {
         int a = sc.nextInt();
 
         int limit;
-        // If input is even, use previous odd number
         if (a % 2 == 0) {
             limit = a - 1;
         } else {
