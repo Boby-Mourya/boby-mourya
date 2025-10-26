@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Calculator {
+class Problem1 {
 
     public double add(double a, double b) {
         return a + b;
@@ -24,7 +24,7 @@ class Calculator {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Calculator calc = new Calculator();
+        Problem1 calc = new Problem1();
 
         System.out.print("Enter first number (a): ");
         double a = sc.nextDouble();

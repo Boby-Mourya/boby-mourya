@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MultipleCounter {
+public class Problem4 {
 
     public static void main(String[] args) {
 
